@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryprojectone",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8038037-18f7-477d-b470-58db12dd5b9c",
+		"tenantId": "4d8b19e7-35ba-47e8-af60-08f8a7e1700d"
+	}
+}
